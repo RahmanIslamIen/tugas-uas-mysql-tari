@@ -1,0 +1,10 @@
+.garis_kategori {
+  border-top: 2px black;
+  border-bottom: 2px black;
+}
+.kategori_model {
+  background-color: #f1f1f1;
+}
+td {
+  text-align: center;
+}
